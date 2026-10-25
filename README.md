@@ -1,10 +1,5 @@
 # Campus Voice — College Announcement Portal
 
-> **Engineering Excellence & Innovation Bootcamp**  
-> **College:** GEC, Hassan  
-> **Training Partner:** Ahlya Technologies, Mysuru  
-> **Curriculum Alignment:** Day 1 — Topics 6 to 11 (Pages 5 – 8) + Role-Based Access Architecture
-
 ---
 
 ## 🎨 Branding & UI Updates
